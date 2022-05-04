@@ -11,6 +11,10 @@ public class MobileTest {
 		System.out.println("MobileLogin1");
 		System.out.println("MobileLogin2");
 		
+		System.out.println("MobileLogin3");
+		System.out.println("MobileLogin4");
+		System.out.println("MobileLogin5");
+		
 	}
 	@Test
 	public void MobileBrowse()
