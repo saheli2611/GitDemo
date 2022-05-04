@@ -8,6 +8,8 @@ public class MobileTest {
 	public void MobileLogin()
 	{
 		System.out.println("MobileLogin");
+		System.out.println("MobileLogin1");
+		System.out.println("MobileLogin2");
 		
 	}
 	@Test
