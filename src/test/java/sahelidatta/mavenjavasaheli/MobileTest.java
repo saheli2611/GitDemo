@@ -22,5 +22,11 @@ public class MobileTest {
 		System.out.println("MobileBrowse");
 		
 	}
+	@Test
+	public void MobileBrowse1()
+	{
+		System.out.println("MobileBrowse1");
+		
+	}
 	
 }
