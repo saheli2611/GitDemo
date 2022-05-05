@@ -17,5 +17,12 @@ public class RestAPITest {
 		System.out.println("APIBrowse");
 		
 	}
+	
+	@Test
+	public void APIBrowse1()
+	{
+		System.out.println("APIBrowse1");
+		
+	}
 
 }

@@ -16,5 +16,12 @@ public class SeleniumTest {
 		System.out.println("SeleniumBrowse");
 		
 	}
+	
+	@Test
+	public void SeleniumBrowse1()
+	{
+		System.out.println("SeleniumBrowse1");
+		
+	}
 
 }
