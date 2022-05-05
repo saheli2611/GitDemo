@@ -23,5 +23,12 @@ public class SeleniumTest {
 		System.out.println("SeleniumBrowse1");
 		
 	}
+	
+	@Test
+	public void SeleniumBrowse2()
+	{
+		System.out.println("SeleniumBrowse2");
+		
+	}
 
 }
